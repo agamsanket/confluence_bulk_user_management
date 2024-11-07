@@ -341,7 +341,7 @@
         <plugin.testrunner.version>2.0.9</plugin.testrunner.version>
         <atlassian.spring.scanner.version>2.2.0</atlassian.spring.scanner.version>
         <osgi.javaconfig.version>0.2.0</osgi.javaconfig.version>
-        <spring.version>4.2.5.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
         <!-- This property ensures consistency between the key in atlassian-plugin.xml and the OSGi bundle's key. -->
         <atlassian.plugin.key>${project.groupId}.${project.artifactId}</atlassian.plugin.key>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
