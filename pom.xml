@@ -7,7 +7,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.miniorange.usermanagement</groupId>
     <artifactId>confluence-user-management</artifactId>
-    <version>1.0.20</version>
+    <version>1.1.1</version>
 
     <organization>
         <name>miniOrange</name>
